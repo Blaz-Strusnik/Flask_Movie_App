@@ -1,0 +1,6 @@
+[run]
+source = FastApi_Movie_Search
+omit = 
+    tests/*
+    autoapp.py
+
