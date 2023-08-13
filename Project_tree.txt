@@ -1,4 +1,4 @@
-FastApi_Movie_Search
+Flask_Movie_Search
 ├─ .eslintrc.js
 ├─ .github
 │  ├─ dependabot.yml
@@ -6,7 +6,7 @@ FastApi_Movie_Search
 │     └─ lint.yml
 ├─ .gitignore
 ├─ Dockerfile
-├─ FastApi_Movie_Search
+├─ Flask_Movie_Search
 │  ├─ __init__.py
 │  ├─ __pycache__
 │  ├─ app.py

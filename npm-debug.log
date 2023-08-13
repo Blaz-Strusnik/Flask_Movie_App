@@ -1682,8 +1682,8 @@
 75676 silly gunzTarPerm modified mode [ 'src/internal/operators/publishReplay.ts', 420, 436 ]
 75677 silly gunzTarPerm extractEntry dist/types/internal/scheduler/queue.d.ts
 75678 silly gunzTarPerm modified mode [ 'dist/types/internal/scheduler/queue.d.ts', 420, 436 ]
-75679 silly gentlyRm /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/lodash-ff46e3a4/node_modules is being purged
-75680 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/lodash-ff46e3a4/node_modules
+75679 silly gentlyRm /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/lodash-ff46e3a4/node_modules is being purged
+75680 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/lodash-ff46e3a4/node_modules
 75681 silly gunzTarPerm extractEntry esm/locale/be/_lib/formatLong/index.js
 75682 silly gunzTarPerm modified mode [ 'esm/locale/be/_lib/formatLong/index.js', 420, 436 ]
 75683 silly gunzTarPerm extractEntry esm/locale/be/_lib/formatRelative/index.js
@@ -5034,8 +5034,8 @@
 79004 silly gunzTarPerm modified mode [ 'startOfYesterday/index.js', 420, 436 ]
 79005 silly gunzTarPerm extractEntry sub/index.js
 79006 silly gunzTarPerm modified mode [ 'sub/index.js', 420, 436 ]
-79007 silly gentlyRm /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/es-abstract-04f977e5/node_modules is being purged
-79008 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/es-abstract-04f977e5/node_modules
+79007 silly gentlyRm /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/es-abstract-04f977e5/node_modules is being purged
+79008 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/es-abstract-04f977e5/node_modules
 79009 silly gunzTarPerm extractEntry subBusinessDays/index.js
 79010 silly gunzTarPerm modified mode [ 'subBusinessDays/index.js', 420, 436 ]
 79011 silly gunzTarPerm extractEntry subDays/index.js
@@ -6702,8 +6702,8 @@
 80646 silly gunzTarPerm modified mode [ 'fp/getDayOfYear/package.json', 420, 436 ]
 80647 silly gunzTarPerm extractEntry fp/getDaysInMonth/package.json
 80648 silly gunzTarPerm modified mode [ 'fp/getDaysInMonth/package.json', 420, 436 ]
-80649 silly gentlyRm /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/rxjs-704c6e96/node_modules is being purged
-80650 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/rxjs-704c6e96/node_modules
+80649 silly gentlyRm /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/rxjs-704c6e96/node_modules is being purged
+80650 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/rxjs-704c6e96/node_modules
 80651 silly gunzTarPerm extractEntry fp/getDaysInYear/package.json
 80652 silly gunzTarPerm modified mode [ 'fp/getDaysInYear/package.json', 420, 436 ]
 80653 silly gunzTarPerm extractEntry fp/getDecade/package.json
@@ -7012,8 +7012,8 @@
 80956 silly gunzTarPerm modified mode [ 'fp/subMonths/package.json', 420, 436 ]
 80957 silly gunzTarPerm extractEntry fp/subQuarters/package.json
 80958 silly gunzTarPerm modified mode [ 'fp/subQuarters/package.json', 420, 436 ]
-80959 silly gentlyRm /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/@fortawesome/fontawesome-free-65684b0e/node_modules is being purged
-80960 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/@fortawesome/fontawesome-free-65684b0e/node_modules
+80959 silly gentlyRm /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/@fortawesome/fontawesome-free-65684b0e/node_modules is being purged
+80960 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/@fortawesome/fontawesome-free-65684b0e/node_modules
 80961 silly gunzTarPerm extractEntry fp/subSeconds/package.json
 80962 silly gunzTarPerm modified mode [ 'fp/subSeconds/package.json', 420, 436 ]
 80963 silly gunzTarPerm extractEntry fp/subWeeks/package.json
@@ -9942,9 +9942,9 @@
 83876 silly gunzTarPerm modified mode [ 'yearsToQuarters/index.d.ts', 420, 436 ]
 83877 silly gunzTarPerm extractEntry typings.d.ts
 83878 silly gunzTarPerm modified mode [ 'typings.d.ts', 420, 436 ]
-83879 silly gentlyRm /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/date-fns-86928c1f/node_modules is being purged
-83880 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/date-fns-86928c1f/node_modules
-83881 verbose unlock done using /home/blaz/.npm/_locks/staging-536746882e2ea428.lock for /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging
+83879 silly gentlyRm /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/date-fns-86928c1f/node_modules is being purged
+83880 verbose gentlyRm don't care about contents; nuking /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/date-fns-86928c1f/node_modules
+83881 verbose unlock done using /home/blaz/.npm/_locks/staging-536746882e2ea428.lock for /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging
 83882 silly rollbackFailedOptional Starting
 83883 silly rollbackFailedOptional Finishing
 83884 silly runTopLevelLifecycles Finishing
@@ -9955,18 +9955,18 @@
 83888 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Valid Arch:  any
 83888 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Actual OS:   linux
 83888 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Actual Arch: x64
-83889 verbose stack Error: ENOTDIR: not a directory, open '/home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/@types/eslint-scope-506f2b7d/package.json'
+83889 verbose stack Error: ENOTDIR: not a directory, open '/home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/@types/eslint-scope-506f2b7d/package.json'
 83889 verbose stack     at Error (native)
-83890 verbose cwd /home/blaz/Projects/FastApi_Movie_Search
+83890 verbose cwd /home/blaz/Projects/Flask_Movie_Search
 83891 error Linux 5.4.0-156-generic
 83892 error argv "/home/blaz/anaconda3/envs/fastapienv/bin/node" "/home/blaz/anaconda3/envs/fastapienv/bin/npm" "install"
 83893 error node v6.11.2
 83894 error npm  v3.10.10
-83895 error path /home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/@types/eslint-scope-506f2b7d/package.json
+83895 error path /home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/@types/eslint-scope-506f2b7d/package.json
 83896 error code ENOTDIR
 83897 error errno -20
 83898 error syscall open
-83899 error ENOTDIR: not a directory, open '/home/blaz/Projects/FastApi_Movie_Search/node_modules/.staging/@types/eslint-scope-506f2b7d/package.json'
+83899 error ENOTDIR: not a directory, open '/home/blaz/Projects/Flask_Movie_Search/node_modules/.staging/@types/eslint-scope-506f2b7d/package.json'
 83900 error If you need help, you may report this error at:
 83900 error     <https://github.com/npm/npm/issues>
 83901 verbose exit [ -20, true ]

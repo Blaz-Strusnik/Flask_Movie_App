@@ -5,8 +5,8 @@ import sys
 
 from flask import Flask, render_template
 
-from FastApi_Movie_Search import commands, public, user, movie_api
-from FastApi_Movie_Search.extensions import (
+from Flask_Movie_Search import commands, public, user, movie_api
+from Flask_Movie_Search.extensions import (
     bcrypt,
     cache,
     csrf_protect,
@@ -18,7 +18,7 @@ from FastApi_Movie_Search.extensions import (
 )
 
 
-def create_app(config_object="FastApi_Movie_Search.settings"):
+def create_app(config_object="Flask_Movie_Search.settings"):
     """Create application factory, as explained here: http://flask.pocoo.org/docs/patterns/appfactories/.
 
     :param config_object: The configuration object to use.

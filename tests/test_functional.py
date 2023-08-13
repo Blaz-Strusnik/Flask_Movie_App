@@ -5,7 +5,7 @@ See: http://webtest.readthedocs.org/
 """
 from flask import url_for
 
-from FastApi_Movie_Search.user.models import User
+from Flask_Movie_Search.user.models import User
 
 from .factories import UserFactory
 

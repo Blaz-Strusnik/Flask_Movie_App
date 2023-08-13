@@ -19,7 +19,7 @@ COPY package.json ./
 RUN npm install
 
 COPY webpack.config.js autoapp.py ./
-COPY FastApi_Movie_Search FastApi_Movie_Search
+COPY Flask_Movie_Search Flask_Movie_Search
 COPY assets assets
 COPY .env.example .env
 RUN npm run-script build
@@ -34,7 +34,7 @@ RUN chown -R sid:sid /app
 USER sid
 ENV PATH="/home/sid/.local/bin:${PATH}"
 
-COPY --from=builder --chown=sid:sid /app/FastApi_Movie_Search/static /app/FastApi_Movie_Search/static
+COPY --from=builder --chown=sid:sid /app/Flask_Movie_Search/static /app/Flask_Movie_Search/static
 COPY requirements requirements
 RUN pip install --no-cache --user -r requirements/prod.txt
 

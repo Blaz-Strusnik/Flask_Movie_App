@@ -1,5 +1,5 @@
 {
-   "name": "FastApi_Movie_Search",
+   "name": "Flask_Movie_Search",
    "env": {
       "SECRET_KEY": {
          "description": "SECRET_KEY.",

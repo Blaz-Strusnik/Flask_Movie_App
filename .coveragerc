@@ -1,5 +1,5 @@
 [run]
-source = FastApi_Movie_Search
+source = Flask_Movie_Search
 omit = 
     tests/*
     autoapp.py

@@ -1,4 +1,4 @@
-# FastApi_Movie_Search
+# Flask_Movie_Search
 
 App that displays movie information when you enter the name of the movie in search bar.
 
@@ -45,7 +45,7 @@ Go to `http://localhost:8080`. You will see a pretty welcome screen.
 Run the following commands to bootstrap your environment if you are unable to run the application using Docker
 
 ```bash
-cd FastApi_Movie_Search
+cd Flask_Movie_Search
 pip install -r requirements/dev.txt
 npm install
 npm run-script build

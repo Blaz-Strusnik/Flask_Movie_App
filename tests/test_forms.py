@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """Test forms."""
 
-from FastApi_Movie_Search.public.forms import LoginForm
-from FastApi_Movie_Search.user.forms import RegisterForm
+from Flask_Movie_Search.public.forms import LoginForm
+from Flask_Movie_Search.user.forms import RegisterForm
 
 
 class TestRegisterForm:

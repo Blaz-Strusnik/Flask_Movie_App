@@ -5,7 +5,7 @@ from flask_login import UserMixin
 from sqlalchemy import text
 from sqlalchemy.orm.exc import ObjectDeletedError
 
-from FastApi_Movie_Search.database import Column, PkModel, db
+from Flask_Movie_Search.database import Column, PkModel, db
 
 
 class ExampleUserModel(UserMixin, PkModel):

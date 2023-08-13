@@ -3,8 +3,8 @@
 from factory import Sequence
 from factory.alchemy import SQLAlchemyModelFactory
 
-from FastApi_Movie_Search.database import db
-from FastApi_Movie_Search.user.models import User
+from Flask_Movie_Search.database import db
+from Flask_Movie_Search.user.models import User
 
 
 class BaseFactory(SQLAlchemyModelFactory):

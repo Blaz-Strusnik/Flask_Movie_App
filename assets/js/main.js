@@ -1,5 +1,5 @@
 /*
- * Main Javascript file for FastApi_Movie_Search.
+ * Main Javascript file for Flask_Movie_Search.
  *
  * This file bundles all of your javascript together using webpack.
  */

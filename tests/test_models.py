@@ -4,7 +4,7 @@ import datetime as dt
 
 import pytest
 
-from FastApi_Movie_Search.user.models import Role, User
+from Flask_Movie_Search.user.models import Role, User
 
 from .factories import UserFactory
 

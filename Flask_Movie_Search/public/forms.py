@@ -4,7 +4,7 @@ from flask_wtf import FlaskForm
 from wtforms import PasswordField, StringField
 from wtforms.validators import DataRequired
 
-from FastApi_Movie_Search.user.models import User
+from Flask_Movie_Search.user.models import User
 
 
 class LoginForm(FlaskForm):

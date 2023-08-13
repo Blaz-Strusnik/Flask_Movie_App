@@ -6,8 +6,8 @@ import logging
 import pytest
 from webtest import TestApp
 
-from FastApi_Movie_Search.app import create_app
-from FastApi_Movie_Search.database import db as _db
+from Flask_Movie_Search.app import create_app
+from Flask_Movie_Search.database import db as _db
 
 from .factories import UserFactory
 

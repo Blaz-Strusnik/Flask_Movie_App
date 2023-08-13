@@ -33,7 +33,7 @@ module.exports = {
   output: {
     chunkFilename: "[id].js",
     filename: "[name].bundle.js",
-    path: path.join(__dirname, "FastApi_Movie_Search", "static", "build"),
+    path: path.join(__dirname, "Flask_Movie_Search", "static", "build"),
     publicPath: "/static/build/"
   },
   resolve: {

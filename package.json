@@ -1,5 +1,5 @@
 {
-  "name": "FastApi_Movie_Search",
+  "name": "Flask_Movie_Search",
   "version": "1.0.0",
   "description": "App that displays movie information when you enter the name of the movie in search bar.",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blaz-Strusnik/FastApi_Movie_Search.git"
+    "url": "git+https://github.com/Blaz-Strusnik/Flask_Movie_Search.git"
   },
   "author": "blaz strusnik",
   "license": "MIT",
@@ -26,9 +26,9 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/Blaz-Strusnik/FastApi_Movie_Search/issues"
+    "url": "https://github.com/Blaz-Strusnik/Flask_Movie_Search/issues"
   },
-  "homepage": "https://github.com/Blaz-Strusnik/FastApi_Movie_Search#readme",
+  "homepage": "https://github.com/Blaz-Strusnik/Flask_Movie_Search#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "6.4.2",
     "bootstrap": "5.3.1",

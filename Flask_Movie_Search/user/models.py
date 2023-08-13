@@ -5,8 +5,8 @@ import datetime as dt
 from flask_login import UserMixin
 from sqlalchemy.ext.hybrid import hybrid_property
 
-from FastApi_Movie_Search.database import Column, PkModel, db, reference_col, relationship
-from FastApi_Movie_Search.extensions import bcrypt
+from Flask_Movie_Search.database import Column, PkModel, db, reference_col, relationship
+from Flask_Movie_Search.extensions import bcrypt
 
 
 class Role(PkModel):

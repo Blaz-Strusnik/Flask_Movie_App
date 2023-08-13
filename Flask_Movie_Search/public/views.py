@@ -11,11 +11,11 @@ from flask import (
 )
 from flask_login import login_required, login_user, logout_user
 
-from FastApi_Movie_Search.extensions import login_manager
-from FastApi_Movie_Search.public.forms import LoginForm
-from FastApi_Movie_Search.user.forms import RegisterForm
-from FastApi_Movie_Search.user.models import User
-from FastApi_Movie_Search.utils import flash_errors
+from Flask_Movie_Search.extensions import login_manager
+from Flask_Movie_Search.public.forms import LoginForm
+from Flask_Movie_Search.user.forms import RegisterForm
+from Flask_Movie_Search.user.models import User
+from Flask_Movie_Search.utils import flash_errors
 
 blueprint = Blueprint("public", __name__, static_folder="../static")
 

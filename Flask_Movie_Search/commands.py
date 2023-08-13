@@ -25,7 +25,7 @@ def test(coverage):
 
     args = [TEST_PATH, "--verbose"]
     if coverage:
-        args.append("--cov=FastApi_Movie_Search")
+        args.append("--cov=Flask_Movie_Search")
     rv = pytest.main(args)
     exit(rv)
 
