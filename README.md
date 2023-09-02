@@ -170,6 +170,5 @@ in ``.env``:
 
 ```text
 SEND_FILE_MAX_AGE_DEFAULT=31556926  # one year
-```
 
-```
+#### This project was created with the help of cookiecutter-flask/cookiecutter-flask
