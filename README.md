@@ -172,4 +172,7 @@ in ``.env``:
 SEND_FILE_MAX_AGE_DEFAULT=31556926  # one year
 ```
 
-#### This project was created with the help of cookiecutter-flask/cookiecutter-flask
+## Credits
+
+### Template Generator
+This project was generated using a template generator that simplifies the setup of a Flask project. The template generator is not part of this repository. You can find the template generator [here](https://github.com/cookiecutter-flask/cookiecutter-flask).
