@@ -21,7 +21,7 @@ flask-static-digest = "==0.4.0"
 flask-bcrypt = "==1.0.1"
 flask-login = "==0.6.2"
 flask-caching = ">=2.0.2"
-flask-debugtoolbar = "==0.13.1"
+flask-debugtoolbar = "==0.14.1"
 environs = "==9.5.0"
 
 [dev-packages]
